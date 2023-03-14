@@ -1,11 +1,15 @@
 #cw {
-    position: fixed;
+    position: absolute;
     z-index: -1;
+    height:400px;
+    width: 400px;
+   padding-left:
   }
   
   body {
     margin: 0;
     padding: 0;
     background-color: rgba(0, 0, 0, 0.05);
+    
   }
   
